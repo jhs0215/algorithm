@@ -4,8 +4,8 @@
     <Filter Include="algorithm">
       <UniqueIdentifier>{9a10b7c6-4cbd-42d4-b74b-6c63d9cee217}</UniqueIdentifier>
     </Filter>
-    <Filter Include="file">
-      <UniqueIdentifier>{911985ad-61c3-4e58-aa04-ee45455850db}</UniqueIdentifier>
+    <Filter Include="problem">
+      <UniqueIdentifier>{f976c17e-b42e-4c72-b59a-f5b05eb628af}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -33,13 +33,18 @@
     <ClCompile Include="lca.cpp">
       <Filter>algorithm</Filter>
     </ClCompile>
+    <ClCompile Include="1855. 영준이의 진짜 BFS%28정답%29.cpp">
+      <Filter>problem</Filter>
+    </ClCompile>
+    <ClCompile Include="1855. 영준이의 진짜 BFS.cpp">
+      <Filter>problem</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch.cpp">
+      <Filter>algorithm</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="input.txt">
-      <Filter>file</Filter>
-    </Text>
-    <Text Include="output.txt">
-      <Filter>file</Filter>
-    </Text>
+    <Text Include="input.txt" />
+    <Text Include="output.txt" />
   </ItemGroup>
 </Project>

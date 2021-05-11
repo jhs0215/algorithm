@@ -1,4 +1,4 @@
-#include <stdint.h>
+#include <iostream>
 
 #define MAX_DATA 100
 

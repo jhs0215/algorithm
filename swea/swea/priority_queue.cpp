@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <iostream>
 
 #define MAX_DATA 100
 
@@ -73,9 +73,7 @@ int pop(int* v)
 		swap(&queue[current], &queue[child]);
 		current = child;
 	}
-
-	nqueue--;
-
+	
 	return 1;
 }
 

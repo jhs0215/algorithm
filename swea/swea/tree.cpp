@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <iostream>
 
 #define MAX_TO 2
 #define MAX_DATA 101

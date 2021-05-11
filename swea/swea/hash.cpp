@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <iostream>
 
 #define MAX_LENGTH 11
 #define MAX_HASH 1000
